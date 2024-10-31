@@ -5,7 +5,7 @@
 Aplikasi ini dibuat menggunakan Java class dan jFrame From sebagai tampilan antarmuka (GUI) untuk menghitung hari ulang tahun disatu tahun kedepan dan mencari peristiwa penting pada tanggal ulang tahun. Proyek ini dibuat sebagai bagian dari tugas pada mata kuliah Pemrograman Berorientasi Objek 2.
 
 ## Contoh Gambar Project Setelah di Run
-![](https://github.com/firaaaa10/PerhitunganHariApp/blob/main/Screenshot%20(6).png)
+![](https://github.com/firaaaa10/PerhitunganHariApp/blob/main/PBO%20penghitung%20Umur.png)
  
 ## Indikator Penilaian:
 

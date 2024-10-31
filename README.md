@@ -42,3 +42,8 @@ Perhitungan selisih waktu
 |  4  | Constructor      |    10    |
 |  5  | Memenuhi Variasi |    50    |
 |     | *TOTAL*        | *100* |
+
+## Pembuat
+
+Nama : Siti Safira
+NPM  : 2210010336
